@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+i am four (current committed by development branch)
+=======
 i am four committed in main branch
+>>>>>>> main

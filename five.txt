@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 i am commited in main (want to merge data of development)
+=======
+i am commited in development 
+>>>>>>> development
